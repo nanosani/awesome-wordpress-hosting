@@ -112,17 +112,15 @@ Whether you're a solo reseller with 20 clients or an agency managing hundreds of
 
 ## 🌐 Domain Registrar Integrations
 
-ITX HostKit Domains add-on supports the following registrars natively:
-
 | Registrar | Notes |
 |-----------|-------|
-| [Namecheap](https://www.namecheap.com/) | ⭐ Supported in HostKit Domains. Wide TLD selection, competitive pricing. |
-| [GoDaddy](https://www.godaddy.com/) | Supported in HostKit Domains. Largest registrar by volume. |
-| [Gandi](https://www.gandi.net/) | Supported in HostKit Domains. Ethical registrar, no upsells. |
-| [Spaceship](https://www.spaceship.com/) | Supported in HostKit Domains. Namecheap's newer platform, very competitive pricing. |
-| [Cosmotown](https://www.cosmotown.com/) | Supported in HostKit Domains. Reseller-focused, wholesale pricing. |
-| [Porkbun](https://porkbun.com/) | Popular affordable registrar. API available (pluggable via HostKit custom provider). |
 | [Cloudflare Registrar](https://www.cloudflare.com/products/registrar/) | At-cost domain registration. No markup on wholesale prices. |
+| [Cosmotown](https://www.cosmotown.com/) | Reseller-focused, wholesale pricing. |
+| [Gandi](https://www.gandi.net/) | Ethical registrar, no upsells. |
+| [GoDaddy](https://www.godaddy.com/) | Largest registrar by volume. |
+| [Namecheap](https://www.namecheap.com/) | Wide TLD selection, competitive pricing. |
+| [Porkbun](https://porkbun.com/) | Popular affordable registrar with a clean API. |
+| [Spaceship](https://www.spaceship.com/) | Namecheap's newer platform, very competitive pricing. |
 
 ---
 
