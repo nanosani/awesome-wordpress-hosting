@@ -31,7 +31,7 @@ Whether you're a solo reseller with 20 clients or an agency managing hundreds of
 
 > The WordPress-native alternative to WHMCS. Run your entire hosting business inside WordPress + WooCommerce.
 
-[**ITX HostKit**](https://itechtics.com/hostkit/) is a WordPress plugin that turns your WooCommerce store into a full-featured hosting reseller platform — with automated cPanel provisioning, subscription billing, PDF invoices, a customer portal, and deep analytics. No separate billing system needed.
+[**ITX HostKit**](https://itxhostkit.com) is a WordPress plugin that turns your WooCommerce store into a full-featured hosting reseller platform — with automated cPanel provisioning, subscription billing, PDF invoices, a customer portal, and deep analytics. No separate billing system needed.
 
 ### Why ITX HostKit?
 
@@ -63,20 +63,12 @@ Whether you're a solo reseller with 20 clients or an agency managing hundreds of
 - **AES-256 encryption** — For all stored server credentials
 - **GDPR ready** — Data export and erasure support
 
-### Official Add-ons
-
-| Add-on | Description |
-|--------|-------------|
-| [HostKit Domains](https://itechtics.com/hostkit/) | Domain registration, renewal, transfer, and DNS management. Supports Namecheap, GoDaddy, Gandi, Spaceship, Cosmotown. |
-| [HostKit Helpdesk](https://itechtics.com/hostkit/) | Full ticketing system with email piping, file attachments, ticket rules, AI integration, Slack/WhatsApp support, and knowledge base. |
-
 ### Quick Links
 
-- [Website & Pricing](https://itechtics.com/hostkit/)
-- [Documentation](https://itechtics.com/hostkit/docs/)
-- [Changelog](https://itechtics.com/hostkit/changelog/)
-- [7-Day Free Trial](https://itechtics.com/hostkit/) — No credit card required
-- [Roadmap](https://itechtics.com/hostkit/) — Plesk (mid-2026), WHMCS migrator (2026), Affiliate program (Q3 2026)
+- [Website](https://itxhostkit.com)
+- [Documentation](https://itxhostkit.com/docs)
+- [30-Day Free Trial](https://itxhostkit.com/pricing/)
+- [Roadmap](https://itxhostkit.com/roadmap/)
 
 ---
 
@@ -86,7 +78,7 @@ Whether you're a solo reseller with 20 clients or an agency managing hundreds of
 
 | Plugin | Description |
 |--------|-------------|
-| [ITX HostKit](https://itechtics.com/hostkit/) | ⭐ WordPress + WooCommerce billing, cPanel provisioning, customer portal. See [featured section](#-featured-itx-hostkit) above. |
+| [ITX HostKit](https://itxhostkit.com) | ⭐ WordPress + WooCommerce billing, cPanel provisioning, customer portal. See [featured section](#-featured-itx-hostkit) above. |
 | [WooCommerce Subscriptions](https://woocommerce.com/products/woocommerce-subscriptions/) | Core subscription billing for WooCommerce. HostKit extends this for hosting workflows. |
 | [SolidWP Membership](https://solidwp.com/membership/) | Membership and billing management for WordPress. |
 
@@ -196,7 +188,7 @@ ITX HostKit Domains add-on supports the following registrars natively:
 
 | Plugin | Description |
 |--------|-------------|
-| [ITX HostKit Helpdesk](https://itechtics.com/hostkit/) | ⭐ Built for hosting resellers. Email piping, AI integration, Slack/WhatsApp, knowledge base, ticket automation. |
+| [ITX HostKit Helpdesk](https://itxhostkit.com) | ⭐ Built for hosting resellers. Email piping, AI integration, Slack/WhatsApp, knowledge base, ticket automation. |
 | [Awesome Support](https://wordpress.org/plugins/awesome-support/) | Full-featured ticketing system for WordPress. Email piping, agents, file attachments. |
 | [SupportCandy](https://wordpress.org/plugins/supportcandy/) | Lightweight, self-hosted helpdesk. No subscription fees. |
 | [Fluent Support](https://wordpress.org/plugins/fluent-support/) | Fast, modern helpdesk plugin. CRM integrations. |
@@ -485,7 +477,7 @@ Best server/infrastructure options for running your reseller hosting business.
 
 ### Official Documentation
 
-- [ITX HostKit Documentation](https://itechtics.com/hostkit/docs/) — Full setup, configuration, and API reference.
+- [ITX HostKit Documentation](https://itxhostkit.com/docs) — Full setup, configuration, and API reference.
 - [cPanel/WHM Documentation](https://docs.cpanel.net/) — Official WHM and cPanel API reference.
 - [WooCommerce Developer Docs](https://developer.woocommerce.com/) — Hooks, filters, REST API.
 - [WooCommerce Subscriptions Docs](https://woocommerce.com/documentation/plugins/woocommerce-subscriptions/) — Subscription lifecycle, hooks, and management.
